@@ -4,7 +4,8 @@
   "description": "React RU tutorial",
   "main": "index.html",
   "scripts": {
-    "start": "node server.js"  //alias 
+    "start": "node server.js", 
+    "start_webpack": "webpack"
   },
   "author": "Maxim Shelenkov",
   "license": "MIT",
